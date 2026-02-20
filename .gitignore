@@ -11,3 +11,5 @@ wheels/
 # Virtual environments
 .venv
 01-fundamentos/uv.lock
+03-oop/uv.lock
+.gitignore
