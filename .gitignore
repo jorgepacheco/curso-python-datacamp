@@ -10,3 +10,4 @@ wheels/
 
 # Virtual environments
 .venv
+01-fundamentos/uv.lock
